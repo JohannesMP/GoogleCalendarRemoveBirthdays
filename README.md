@@ -1,2 +1,2 @@
-# Hide-Birthday-Calendar-Userscipt
-Tampermonkey Userscript to hide the Birthday calendar in google calendar.
+# Overview
+A basic Tampermonkey Userscript for removing the default 'Birthdays' calendar from the calendars list.
